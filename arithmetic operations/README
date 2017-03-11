@@ -1,0 +1,14 @@
+Name: VIVEK ARAKALI
+Clemson Email Address: varakal@clemson.edu
+Course number: 8270
+
+Project no: 4
+Project due date: 10/28/2016
+
+Project description: Insert semantic actions into the parser to evaluate expressions of the form print <expr>, where
+<expr> is an expression involving integers, sans extended precision
+
+Difficulties: Adding semantic actions for division where the different conditions are checked
+
+Extra: Added several permutations of test cases and checked them with the python interpretor 
+
